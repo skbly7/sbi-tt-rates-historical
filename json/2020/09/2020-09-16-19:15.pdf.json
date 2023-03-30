@@ -1,0 +1,226 @@
+[
+    {
+        "Unnamed: 0": "CURRENCY",
+        "Unnamed: 1": null,
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "TT BUY TT SELL BILL BUY BILL SELL TC BUY TC SELL",
+        "Unnamed: 2": "CN BUY",
+        "Unnamed: 3": "CN SELL",
+        "Unnamed: 4": "PC BUY"
+    },
+    {
+        "Unnamed: 0": "UNITED STATES DOLLAR",
+        "Unnamed: 1": "USD/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "72.85 74.35 72.79 74.50 72.20 74.70",
+        "Unnamed: 2": "71.90",
+        "Unnamed: 3": "74.80",
+        "Unnamed: 4": "72.74"
+    },
+    {
+        "Unnamed: 0": "EURO",
+        "Unnamed: 1": "EUR/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "85.74 88.66 85.67 88.84 84.90 89.10",
+        "Unnamed: 2": "84.50",
+        "Unnamed: 3": "89.30",
+        "Unnamed: 4": "85.61"
+    },
+    {
+        "Unnamed: 0": "GREAT BRITAIN POUND",
+        "Unnamed: 1": "GBP/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "93.47 96.51 93.39 96.70 92.55 97.00",
+        "Unnamed: 2": "92.10",
+        "Unnamed: 3": "97.25",
+        "Unnamed: 4": "93.33"
+    },
+    {
+        "Unnamed: 0": "JAPANESE YEN",
+        "Unnamed: 1": "JPY/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "68.70 71.15 68.64 71.29 68.05 71.50",
+        "Unnamed: 2": "65.45",
+        "Unnamed: 3": "73.80",
+        "Unnamed: 4": "68.60"
+    },
+    {
+        "Unnamed: 0": "SWISS FRANC",
+        "Unnamed: 1": "CHF/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "79.57 82.61 79.51 82.78 78.80 83.00",
+        "Unnamed: 2": "75.75",
+        "Unnamed: 3": "85.70",
+        "Unnamed: 4": "79.45"
+    },
+    {
+        "Unnamed: 0": "AUSTRALIAN DOLLAR",
+        "Unnamed: 1": "AUD/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "52.85 55.02 52.81 55.13 52.80 55.30",
+        "Unnamed: 2": "50.75",
+        "Unnamed: 3": "57.10",
+        "Unnamed: 4": "52.77"
+    },
+    {
+        "Unnamed: 0": "NEW ZEALAND DOLLAR",
+        "Unnamed: 1": "NZD/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "48.66 50.78 48.62 50.88 0.00 0.00",
+        "Unnamed: 2": "46.35",
+        "Unnamed: 3": "52.70",
+        "Unnamed: 4": "48.59"
+    },
+    {
+        "Unnamed: 0": "CANADIAN DOLLAR",
+        "Unnamed: 1": "CAD/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "54.98 56.82 54.94 56.94 54.45 57.10",
+        "Unnamed: 2": "52.35",
+        "Unnamed: 3": "58.95",
+        "Unnamed: 4": "54.90"
+    },
+    {
+        "Unnamed: 0": "SINGAPORE DOLLAR",
+        "Unnamed: 1": "SGD/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "53.27 54.97 53.23 55.08 0.00 0.00",
+        "Unnamed: 2": "50.70",
+        "Unnamed: 3": "57.05",
+        "Unnamed: 4": "53.19"
+    },
+    {
+        "Unnamed: 0": "HONG KONG DOLLAR",
+        "Unnamed: 1": "HKD/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "9.34 9.66 9.33 9.68 0.00 0.00",
+        "Unnamed: 2": "8.85",
+        "Unnamed: 3": "10.00",
+        "Unnamed: 4": "9.31"
+    },
+    {
+        "Unnamed: 0": "DANISH KRONER",
+        "Unnamed: 1": "DKK/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "11.53 11.92 11.51 11.94 0.00 0.00",
+        "Unnamed: 2": "10.95",
+        "Unnamed: 3": "12.35",
+        "Unnamed: 4": "11.51"
+    },
+    {
+        "Unnamed: 0": "NORWEGIAN KRONER",
+        "Unnamed: 1": "NOK/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "8.04 8.30 8.02 8.31 0.00 0.00",
+        "Unnamed: 2": "7.65",
+        "Unnamed: 3": "8.60",
+        "Unnamed: 4": "8.01"
+    },
+    {
+        "Unnamed: 0": "SWEDISH KRONA",
+        "Unnamed: 1": "SEK/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "8.25 8.52 8.23 8.53 0.00 0.00",
+        "Unnamed: 2": "7.85",
+        "Unnamed: 3": "8.85",
+        "Unnamed: 4": "8.22"
+    },
+    {
+        "Unnamed: 0": "BAHRAINI DINAR",
+        "Unnamed: 1": "BHD/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "189.40 201.21 189.24 201.62 0.00 0.00",
+        "Unnamed: 2": "184.10",
+        "Unnamed: 3": "204.55",
+        "Unnamed: 4": "189.12"
+    },
+    {
+        "Unnamed: 0": "KUWAITI DINAR",
+        "Unnamed: 1": "KWD/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "233.56 248.26 233.36 248.76 0.00 0.00",
+        "Unnamed: 2": "227.00",
+        "Unnamed: 3": "252.40",
+        "Unnamed: 4": "233.21"
+    },
+    {
+        "Unnamed: 0": "UAE DIRHAM",
+        "Unnamed: 1": "AED/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "19.44 20.66 19.43 20.70 0.00 0.00",
+        "Unnamed: 2": "18.90",
+        "Unnamed: 3": "21.00",
+        "Unnamed: 4": "19.41"
+    },
+    {
+        "Unnamed: 0": "SAUDI ARABIAN RIYAL",
+        "Unnamed: 1": "SAR/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "19.04 20.23 19.02 20.27 0.00 0.00",
+        "Unnamed: 2": "18.50",
+        "Unnamed: 3": "20.55",
+        "Unnamed: 4": "19.01"
+    },
+    {
+        "Unnamed: 0": "SOUTH AFRICAN RAND",
+        "Unnamed: 1": "ZAR/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "4.35 4.62 4.34 4.63 0.00 0.00",
+        "Unnamed: 2": "4.20",
+        "Unnamed: 3": "4.70",
+        "Unnamed: 4": "4.33"
+    },
+    {
+        "Unnamed: 0": "CHINESE YUAN",
+        "Unnamed: 1": "CNY/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "0.00 0.00 10.71 11.04 0.00 0.00",
+        "Unnamed: 2": "0.00",
+        "Unnamed: 3": "0.00",
+        "Unnamed: 4": "0.00"
+    },
+    {
+        "Unnamed: 0": "OMANI RIYAL",
+        "Unnamed: 1": "OMR/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "185.50 197.08 0.00 0.00 0.00 0.00",
+        "Unnamed: 2": "180.30",
+        "Unnamed: 3": "200.35",
+        "Unnamed: 4": "0.00"
+    },
+    {
+        "Unnamed: 0": "QATARI RIAL",
+        "Unnamed: 1": "QAR/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "19.61 20.84 19.59 20.88 0.00 0.00",
+        "Unnamed: 2": "19.05",
+        "Unnamed: 3": "21.20",
+        "Unnamed: 4": "19.58"
+    },
+    {
+        "Unnamed: 0": "MALAYSIAN RINGGIT",
+        "Unnamed: 1": "MYR/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "0.00 0.00 0.00 0.00 0.00 0.00",
+        "Unnamed: 2": "16.60",
+        "Unnamed: 3": "18.85",
+        "Unnamed: 4": "0.00"
+    },
+    {
+        "Unnamed: 0": "THAI BAHT",
+        "Unnamed: 1": "THB/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "0.00 0.00 0.00 0.00 0.00 0.00",
+        "Unnamed: 2": "222.25",
+        "Unnamed: 3": "248.05",
+        "Unnamed: 4": "0.00"
+    },
+    {
+        "Unnamed: 0": "PAKISTANI RUPEE",
+        "Unnamed: 1": "PKR/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "0.00 0.00 0.00 0.00 0.00 0.00",
+        "Unnamed: 2": "0.37",
+        "Unnamed: 3": "0.45",
+        "Unnamed: 4": "0.00"
+    },
+    {
+        "Unnamed: 0": "BANGLADESHI TAKA",
+        "Unnamed: 1": "BDT/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "0.00 0.00 0.00 0.00 0.00 0.00",
+        "Unnamed: 2": "0.72",
+        "Unnamed: 3": "0.87",
+        "Unnamed: 4": "0.00"
+    },
+    {
+        "Unnamed: 0": "TURKISH LIRA",
+        "Unnamed: 1": "TRY/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "0.00 0.00 9.52 10.13 0.00 0.00",
+        "Unnamed: 2": "0.00",
+        "Unnamed: 3": "0.00",
+        "Unnamed: 4": "0.00"
+    },
+    {
+        "Unnamed: 0": "KOREAN WON",
+        "Unnamed: 1": "KRW/INR",
+        "CARD RATES FOR TRANSACTIONS BELOW Rs. 10 LACS": "0.00 0.00 6.07 6.46 0.00 0.00",
+        "Unnamed: 2": "0.00",
+        "Unnamed: 3": "0.00",
+        "Unnamed: 4": "0.00"
+    }
+]

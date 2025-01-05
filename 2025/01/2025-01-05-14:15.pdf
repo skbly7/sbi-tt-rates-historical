@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>404</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,800" rel="stylesheet" />
+  <style>
+    body {
+      padding: 0;
+      border: 0;
+      margin: 0;
+      font-family: 'Open Sans', sans-serif !important;
+      overflow: hidden !important;
+    }
+
+    div.notfound {
+      height: 100vh;
+      position: relative;
+      background-color: #fff;
+    }
+
+    div.notfound .innerdiv {
+      width: 430px;
+      position: absolute;
+      top: 45%;
+      left: 50%;
+      text-align: center;
+      -webkit-transform: translate(-50%, -50%);
+      -moz-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      -o-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+
+    div.notfound .innerdiv h1 {
+      margin: 0;
+      color: #280071;
+      font: 800 200px/200px 'Open Sans', sans-serif;
+    }    
+
+    div.notfound .innerdiv h1 span:first-child {
+      margin-right: 10px;
+      display: inline-block;
+    }
+
+    div.notfound .innerdiv h1 span:last-child {
+      margin-left: 10px;
+      display: inline-block;
+    }
+
+    div.notfound .innerdiv h1 svg {
+      width: 150px;
+      margin: 0 30px;
+      vertical-align: middle;
+    }
+
+    div.notfound .innerdiv h2 {
+      margin: 20px 0;
+      color: #000;
+      font: 800 30px 'Open Sans', sans-serif;
+      text-transform: uppercase;
+    }
+
+    div.notfound .innerdiv p {
+      color: #000;
+      font: 400 16px/22px 'Open Sans', sans-serif;
+    }
+
+    div.notfound .innerdiv a {
+      padding: 10px 20px;
+      margin-top: 30px;
+      display: inline-block;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      border-radius: 5px;
+      background-color: #FFD100;
+      color: #000;
+      font: 600 14px 'Open Sans', sans-serif;
+      text-decoration: none;
+    }
+
+    @media (max-width:450px) {
+      div.notfound .innerdiv {
+        width: 85%;
+      }
+      
+      div.notfound .innerdiv h1 {
+        font: 800 130px/130px 'Open Sans', sans-serif;
+      }
+
+      div.notfound .innerdiv h2 {
+        font: 800 22px 'Open Sans', sans-serif;
+      }
+
+      div.notfound .innerdiv p {
+        font: 400 14px/22px 'Open Sans', sans-serif;
+      }
+
+      div.notfound .innerdiv p br {
+        display: none;
+      }
+
+      div.notfound .innerdiv a {
+        margin-top: 20px;
+        font: 600 13px 'Open Sans', sans-serif;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="notfound">
+    <div class="innerdiv">
+      <h1>
+        <span>4</span>0<span>4</span>
+      </h1>
+      <h2>Page Not Found</h2>
+      <p>Sorry, we are unable to process your request. <br />The requested URL was not found on this server.</p>
+      <a href="/">Go Back To Homepage</a>
+    </div>
+  </div>
+</body>
+</html>

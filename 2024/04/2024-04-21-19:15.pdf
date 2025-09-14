@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>503 Error - Message</title>
+    <meta content="description" name="Error Page" />
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport" />
+    <style>
+        html {
+            height: 100%;
+            display: block;
+        }
+        
+        body {
+            margin: 0;
+            padding: 0;
+            min-width: 768px;
+            font-size: 14px;
+            font-weight: 300;
+            line-height: 1.231;
+            font-family: brandon_text, "Open Sans", sans-serif;
+        }
+        
+        div {
+            display: inline-block;
+            box-sizing: border-box;
+        }
+        
+        .error-page {
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+        }
+        
+        .error-page__main-container {
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 130px;
+            margin: auto;
+        }
+        
+        .error-page__message {
+            position: relative;
+            color: #61717D;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        .error-page__header {
+            background: #002538;
+            height: 60px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .error-page__header-logo {
+            margin-left: 24px;
+        }
+        
+        .error-page__header-name {
+            margin-left: 10px;
+            color: white;
+            font-weight: 500;
+            font-size: 16px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="error-page">
+        <div class="error-page__header">
+            <div class="error-page__header-logo">
+                <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect opacity="0.6" width="36" height="36" rx="3" fill="#DDDDDD" fill-opacity="0.25"/>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M7.63948 13.8763C7.32265 13.2097 6.53978 12.9085 5.80923 13.22C5.07771 13.5323 4.80932 14.3104 5.13972 14.9769L8.20726 21.3745C8.68977 22.3785 9.19844 22.9037 10.1528 22.9037C11.1721 22.9037 11.6168 22.3311 12.0984 21.3745C12.0984 21.3745 14.7745 15.7848 14.8016 15.7262C14.8287 15.6667 14.915 15.4863 15.1872 15.4873C15.4178 15.4901 15.6106 15.6658 15.6106 15.9019V21.3699C15.6106 22.2121 16.098 22.9037 17.0349 22.9037C17.9718 22.9037 18.4786 22.2121 18.4786 21.3699V16.8966C18.4786 16.0339 19.1219 15.4743 20.0007 15.4743C20.8785 15.4743 21.4638 16.0525 21.4638 16.8966V21.3699C21.4638 22.2121 21.9521 22.9037 22.888 22.9037C23.824 22.9037 24.3327 22.2121 24.3327 21.3699V16.8966C24.3327 16.0339 24.9751 15.4743 25.8538 15.4743C26.7307 15.4743 27.3169 16.0525 27.3169 16.8966V21.3699C27.3169 22.2121 27.8052 22.9037 28.7421 22.9037C29.6771 22.9037 30.1848 22.2121 30.1848 21.3699V16.2784C30.1848 14.4071 28.6181 13.0963 26.7307 13.0963C24.8452 13.0963 23.6651 14.3476 23.6651 14.3476C23.0373 13.5667 22.172 13.0972 20.709 13.0972C19.1646 13.0972 17.8129 14.3476 17.8129 14.3476C17.1841 13.5667 16.1154 13.0972 15.2308 13.0972C13.8618 13.0972 12.7747 13.6755 12.1119 15.1303L10.1528 19.5608L7.63948 13.8763Z" fill="white"/>
+            </svg>
+            </div>
+            <div class="error-page__header-name">
+                VMware NSX ALB (Avi)
+            </div>
+        </div>
+        <div class="error-page__main-container">
+            <div class="error-page__message">
+                <h3>503 Response Code</h3>
+                <p>
+                    <!-- Please contact our technical support with Request ID: 19s-LjrA-SlQm and Application Name: VS_SMW_SBICOIN_45.190_443 -->
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
